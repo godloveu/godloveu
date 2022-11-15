@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
 
-- 📱 Android打杂
-- 🐍 懂点Python 
-- 📚 写过书
-- 🏸🏓 爱好者
+- 📱 房地产打工人
+- 🐍 懂点计算机知识
 
 <p align="left">
   <a href="https://github.com/coder-pig">
