@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
 
-- 📱 房地产打工人
+- 📱 房地产打工人 为码农服务
 - 🐍 懂点计算机知识
 
 <p align="left">
