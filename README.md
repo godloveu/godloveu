@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=godloveu&show_icons=true&hide=contribs&include_all_commits=true" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+LOVE+U+👋)](https://git.io/typing-svg)
 
 - 📱 房地产打工人 为码农服务
 - 🐍 懂点计算机知识
